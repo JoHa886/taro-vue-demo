@@ -14,7 +14,7 @@ export default {
     list: [
       {
         pagePath: 'pages/index/index',
-        text: '影集',
+        text: '测试',
         iconPath: 'images/index2.png',
         selectedIconPath: 'images/index1.png'
       },
